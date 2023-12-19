@@ -17,3 +17,7 @@ django-admin
 # env end
 
 exit
+
+# start server
+
+python manage.py runserver
