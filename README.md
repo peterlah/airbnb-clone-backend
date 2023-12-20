@@ -33,3 +33,7 @@ python manage.py createsuperuser
 # create new apps
 
 python manage.py startapp houses
+
+# create migrations
+
+python manage.py makemigrations
